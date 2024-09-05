@@ -1,0 +1,1 @@
+The code takes in height values through serial (since I don't have access to a sensor) and processes it thoguh a moving average filter, and prints the current height. it also comapres the previous height with the currrent height to estimate if the cansat is ascending, descending or stationary. The threshold values for this were eyeballed fromthe simulation data.
